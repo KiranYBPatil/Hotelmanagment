@@ -1,13 +1,13 @@
 # Hotelmanagment
 ## Portfolio
 
-### Hello, I'm [Your Name] 👋
+### Hello, I'm [Kiran Bpatil] 👋
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
 ## 🛠️ Projects
-- **Project 1**: A short description of your project.
-- **Project 2**: A short description of another project.
+- **Project 1**: Hotel Management
+
 
 ## 🚀 Skills
 - C++, Python, JavaScript
@@ -15,7 +15,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 - Web Development (React.js, Node.js)
 
 ## 🌐 Find Me Online
-- [GitHub](https://github.com/your-github-username)
+- [GitHub](https://github.com/your-github-KiranYBPatil)
 - [LinkedIn](https://linkedin.com/in/your-linkedin-profile)
 
 ## Portfolio Topic
