@@ -1,5 +1,5 @@
-# Hotelmanagment
-## Portfolio
+# Portfolio
+## Hotelmanagment
 
 ### Hello, I'm [Kiran Bpatil] 👋
 
@@ -24,7 +24,7 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Name</dt>
 <dd>Algorithmic Problem Solving</dd>
 <dt>Course Code</dt>
-<dd>Course Code Placeholder</dd>
+<dd>24ECSP205</dd>
 <dt>Name</dt>
 <dd>Kiran BPatil</dd>
 <dt>SRN</dt>
@@ -33,8 +33,6 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dd>Shankar Biradar</dd>
 <dt>University</dt>
 <dd>KLE Technological University</dd>
-<dt></dt>
-<dd>Google</dd>
 </dl>
 
 <br> 
