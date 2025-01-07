@@ -26,14 +26,14 @@ I am passionate about technology and problem-solving. Here's a glimpse of my wor
 <dt>Course Code</dt>
 <dd>Course Code Placeholder</dd>
 <dt>Name</dt>
-<dd>Your Name</dd>
+<dd>Kiran BPatil</dd>
 <dt>SRN</dt>
-<dd>Your SRN</dd>
+<dd>02fe23bcs129</dd>
 <dt>Course Instructor</dt>
-<dd>Instructor Name Placeholder</dd>
+<dd>Shankar Biradar</dd>
 <dt>University</dt>
-<dd>Your University Name</dd>
-<dt>Portfolio Topic/Domain</dt>
+<dd>KLE Technological University</dd>
+<dt></dt>
 <dd>Google</dd>
 </dl>
 
